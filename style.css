@@ -1,3 +1,7 @@
 html {
-    background-image: "image.png";
-}
+    background-image: url("image.png");
+    }
+
+div.a {
+    text-align: center;
+    }
